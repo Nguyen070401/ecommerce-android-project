@@ -2,7 +2,7 @@
 
 # ecommerce-app
 
-# cho het loi
+# Cho hết lỗi:
 # //npm install
 
 # //npx expo start
@@ -11,7 +11,7 @@
 
 ## Step 1: Start the Metro Server
 
-lam cho het loi:
+làm cho hết lỗi:
 ```bash
 npm install
 
